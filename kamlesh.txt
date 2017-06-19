@@ -1,0 +1,2 @@
+Hey there! This is Kamlesh here playing around with git ;) 
+And modifying this file to check if status displays this change :P
